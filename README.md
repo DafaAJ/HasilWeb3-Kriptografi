@@ -7,11 +7,13 @@
 
 ## 👤 Author Information
 
-* **Name:** Ilham
-* **Student ID (NIM):** 230202767
+* **Name:** Dafa Afriza Julianto
+* **Student ID (NIM):** 230202749
 * **Class:** 5IKRB
 * **Institution:** Universitas Putra Bangsa
 * **Subject:** Cryptography
+* **Kelompok:** Anggota Kelompok 1
+* **Kontribusi:** PPT & Laporan
 
 ---
 
